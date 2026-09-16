@@ -1,1 +1,2 @@
-print('Laddar data från fil...')
+
+print('Reading data from CSV file...')
