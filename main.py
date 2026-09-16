@@ -1,1 +1,1 @@
-print('här är MAIN')
+print('Reading data from CSV file...')
