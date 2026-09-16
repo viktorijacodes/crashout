@@ -1,1 +1,1 @@
-print('här är MAIN')
+print('Laddar data från fil...')
